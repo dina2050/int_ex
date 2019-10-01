@@ -1,0 +1,95 @@
+div {
+    background-color: #dbd8d0;
+}
+.pawn {
+    background-color: #dbd8d0;
+    margin-top: 4em;
+}
+ .container {
+   
+    background-color: #dbd8d0;
+    width: 70%;
+    margin: auto;
+} 
+
+header h1, nav, ul, li {
+    display: inline-block;
+}
+header {
+   
+    background-color: #dbd8d0;
+   
+}
+
+header h1 {
+    width: 59%;
+}
+li {
+    padding-left: 0.5em;
+}
+.first {
+    margin: 9em auto auto auto;
+    background-color: #dbd8d0;
+}
+.first p {
+    float: left;
+    width: 40%;
+}
+
+.first h1 {
+    float: left;
+    width: 70%;
+}
+a {
+    float: left;
+    width: 100%;
+    border: 1px solid black;
+    border-radius: 50px;
+    width: 91px;
+    padding: 0.3em;
+}
+section {
+    margin: 4em auto auto auto;
+    width: 52%;
+}
+section h3, p {
+    text-align: center;
+}
+.second {
+    margin:auto;
+    width: 70%;
+    background-color: #dbd8d0;
+}
+.contactDog{
+    display: inline-block;
+}
+form {
+    display: inline-block;
+    width: 63%;
+}
+label {
+    display: block;
+}
+#email, #subject {
+    width: 63%;
+}
+footer {
+   
+    background-color: red;
+    padding: 1em;
+}
+footer p {
+    text-align: center;
+}
+button {
+    display: block;
+}
+.bla {
+    display: table;
+}
+.cell {
+    display: table-cell;
+}
+#name, #surname {
+    width: 45%
+}
